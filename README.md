@@ -26,5 +26,4 @@ The most important thing you need to go with reactive programming is practical k
 
 * [Reactive Java 9 [Video]](https://www.packtpub.com/application-development/reactive-java-9-video?utm_source=github&utm_medium=repository&utm_campaign=9781787285620)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
